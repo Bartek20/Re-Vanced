@@ -12,5 +12,5 @@ A clear and concise description of what the bug is.
 
 **Logs (content of the /logs/app.log file)**
 ```
-Enter logs content
+Enter logs content or attach log file by uploading it to this issue
 ```
