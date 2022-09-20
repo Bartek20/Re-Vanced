@@ -13,7 +13,7 @@ Google colab Re-Vanced Builder.<br>
 
 <hr>
 
-1. Open `.ipynb` in Google [Colab](https://colab.research.google.com/github/Jarvis-Ank/Re-Vanced/blob/main/Re-Vanced.ipynb)
+1. Open `.ipynb` in Google [Colab](https://colab.research.google.com/github/Bartek20/Re-Vanced/blob/EXPERIMANTAL-Multiple-Apps-Support/Re-Vanced.ipynb)
 2. Upload and copy id for `youtube.apk` from drive.
     * Run the script, more info there.
 3. Wait for the script to build, once you start it. 
